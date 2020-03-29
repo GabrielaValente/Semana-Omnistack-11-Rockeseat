@@ -12,7 +12,7 @@ O projeto foi ministrado por Maiky Brito, instrutor da Rocketseat e seu desenvol
 
 
 <img src="imagens_tela/CasaCriativa.png" alt="page-home">
-<img src="imagens_tela/Ideias2.png" alt="page-new-idea">
+<img src="imagens_tela/VerIdeias.png" alt="page-new-idea">
 <img src="imagens_tela/NovaIdeia.png" alt="page-view-idea">
 
 🔧 Tecnologias utilizadas:

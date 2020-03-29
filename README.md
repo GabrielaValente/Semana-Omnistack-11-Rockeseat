@@ -24,6 +24,5 @@ O projeto foi ministrado por Maiky Brito, instrutor da Rocketseat e seu desenvol
 
 💬 Fale comigo
 ------------------
-[*Entre em contato comigo*](https://www.linkedin.com/in/liandro-wesley)
 
 Obrigado por chegar até aqui! Este projeto foi feito com muito ❤

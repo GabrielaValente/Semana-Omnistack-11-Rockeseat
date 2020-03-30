@@ -22,7 +22,5 @@ O projeto foi ministrado por Maiky Brito, instrutor da Rocketseat e seu desenvol
 - HTML5
 - CSS3
 
-💬 Fale comigo
-------------------
 
 Obrigado por chegar até aqui! Este projeto foi feito com muito ❤
